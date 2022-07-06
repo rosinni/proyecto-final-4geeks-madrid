@@ -8,7 +8,7 @@ export const Demo = () => {
 
   return (
     <div className="container">
-      <h1>Hola!</h1>
+      <h1>Hola! ¿Qué tal?</h1>
       <ul className="list-group">
         {store.demo.map((item, index) => {
           return (
